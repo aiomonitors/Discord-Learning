@@ -33,9 +33,11 @@ Setup:
 -Enter any name you want and click create.
 -You should see a screen like this
 ![discord](https://cdn.discordapp.com/attachments/530635624278130688/538730045762699276/unknown.png)
+
 Click on "Bot"
 
 -Now click "Add Bot"
+
 -Click "Yes do it"
   - Now if you please you can add a picture to it
 -Under token, click copy
