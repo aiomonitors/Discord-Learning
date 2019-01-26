@@ -2,6 +2,13 @@
 
 About this program: This program is meant to teach the user a bit more about discord.py, and hopefully allow them to create their own bots with a basic understanding of discord.py
 
+[@PerceptionIO Twitter](https://twitter.com/PerceptionIO)
+     
+[@navrxo](https://twitter.com/navrxo)
+
+Requirements:
+- Python 3
+
 ##### THE FIRST THING YOU SHOULD DO IS RUN `pip install -r requirements.txt` or `pip3 install -r requirements.txt`
 
 What this projects consists of:
